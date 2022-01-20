@@ -11,9 +11,13 @@ This is code repository that was reversed from the original DHH Rails 7 Demo vid
    * `rails db:migrate`
    * `cat db/schema.rb`
    * `rails server`
- * Chapter 2: Action Text
+ * Chapter 2: Action Text (XX-10:40)
    * `rails action_text:install` 
    * `bundle install`
    * `rails db:migrate`
- * Chapter 3: Import Map
+ * Chapter 3: Import Map (10:40-13:50)
    * `./bin/importmap pin local-time`
+   * `./bin/importmap pin local-time --download`
+ * Chapter 4: Comments model (13:50-15:00)
+   * `rails generate scaffold comment post:references body:text`
+   * `rails db:migrate`
