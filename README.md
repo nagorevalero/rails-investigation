@@ -11,4 +11,9 @@ This is code repository that was reversed from the original DHH Rails 7 Demo vid
    * `rails db:migrate`
    * `cat db/schema.rb`
    * `rails server`
- * Chapter 2: Action Cable
+ * Chapter 2: Action Text
+   * `rails action_text:install` 
+   * `bundle install`
+   * `rails db:migrate`
+ * Chapter 3: Import Map
+   * `./bin/importmap pin local-time`
