@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# DHH Rails 7 Demo Reversed
+This is code repository that was reversed from the original DHH Rails 7 Demo video from Youtube: <https://www.youtube.com/watch?v=mpWFrUwAN88>
