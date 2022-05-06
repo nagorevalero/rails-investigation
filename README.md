@@ -1,4 +1,4 @@
-# Rails Demo: The First Fourteen Minutes
+# Rails Investigation
 
 This code is taken from the first 14 minutes of the [Rails 7
 Demo](https://www.youtube.com/watch?v=mpWFrUwAN88). It has been slightly
